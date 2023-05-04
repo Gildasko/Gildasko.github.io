@@ -15,7 +15,7 @@ experiences:
     url: "https://mcloud.devoteam.com/"
     location: Levallois-Perret
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Devoteams is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
   - designation: Internship
     start: April 2023
@@ -35,6 +35,17 @@ experiences:
     #- Implement and test xyz feature for abc tool.
     #- Support client for abc tool.
     #- Learn k,d,w technology for xyz.
+- company:
+    name: African Development Bank Group.
+    url: "https://www.afdb.org/en"
+    location: Abidjan
+    overview: The African Development Bank Group or Banque Africaine de Développement is a multilateral development finance institution headquartered in Abidjan, Ivory Coast, since September 2014.
+  positions:
+  - designation: Drupal junior consultant
+    start: January 2022
+    end: June 2022
+    responsibilities:
+    - Site Building
 
 - company:
     name: Batiplus.
