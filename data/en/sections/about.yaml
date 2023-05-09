@@ -63,10 +63,10 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-#- type: certification
- # name: Certified Kubernetes Security Specialist
- # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
- # badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/badges/e8f80bd9-6ba3-4a54-898b-fda0609a95a5/public_url"
+  badge: "https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
 
 #- type: certification
  # name: Istio and IBM Cloud Kubernetes Service
