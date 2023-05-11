@@ -15,7 +15,7 @@ experiences:
     url: "https://mcloud.devoteam.com/"
     location: Levallois-Perret
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Devoteam est une entreprise largement reconnue pour le développement cloud natif. Il construit des outils pour Kubernetes.
   positions:
   - designation: Internship
     start: April 2023
@@ -24,7 +24,7 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - How to do implement  a cloud migration with CAF (Cloud Adoption Framework)
+    - Comment mettre en œuvre une migration vers le cloud avec CAF (Cloud Adoption Framework)
     - Design a landing zone.
     - AKS Workshop with partner Microsoft [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
 
