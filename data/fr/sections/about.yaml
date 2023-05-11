@@ -1,6 +1,6 @@
 # section information
 section:
-  name: A propos
+  name: About
   id: about
   enable: true
   weight: 2
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Je suis un devops passionné et un ingénieur de données (DataOps) avec x années d'expérience professionnelle. J'ai créé des outils OSS pour [Kubernetes](https://kubernetes.io/) à l'aide de GO. Mes outils aident les gens à déployer leurs charges de travail dans Kubernetes. Parfois, je travaille sur des projets amusants comme écrire un thème, etc.'
+summary: 'Je suis un devops passionné et un ingénieur de données (DataOps) avec x années d'expérience professionnelle. J ai créé des outils OSS pour [Kubernetes](https://kubernetes.io/) a l aide de GO. Mes outils aident les gens a deployer leurs charges de travail dans Kubernetes. Parfois, je travaille sur des projets amusants comme écrire un theme, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
