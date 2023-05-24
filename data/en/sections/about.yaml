@@ -65,13 +65,13 @@ resourceLinks:
 badges:
 - type: certification
   name: Microsoft Certified Azure Fundamentals
-  url: "https://www.credly.com/badges/e8f80bd9-6ba3-4a54-898b-fda0609a95a5/public_url"
+  url: "https://www.credly.com/badges/fea6b2dc-1cd2-48b3-8dc5-323c0e17017a/public_url"
   badge: "https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
 
-#- type: certification
- # name: Istio and IBM Cloud Kubernetes Service
- # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
- # badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+- type: certification
+  name: HashiCorp Certified Terraform Associate (003)
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/220x220/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
 
 #- type: certification
 #  name: Artificial Intelligence and Machine Learning
