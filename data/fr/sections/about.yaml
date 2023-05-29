@@ -73,6 +73,10 @@ badges:
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
   badge: "https://images.credly.com/size/220x220/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
 
+- type: certification
+  name: Microsoft Certified Azure Data Fundamentals
+  url: "https://www.credly.com/badges/40625357-1cf4-42cc-8ea0-3fee1165ab3e/public_url"
+  badge: "https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-220x220.png"
 #- type: certification
  # name: Istio and IBM Cloud Kubernetes Service
  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
