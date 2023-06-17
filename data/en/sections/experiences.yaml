@@ -49,27 +49,27 @@ experiences:
 
 - company:
     name: Batiplus.
-    url: "https://www.example.com"
+    url: "https://www.groupebatimat.com/"
     location: Dakar
     overview: Batiplus is a firm , who is specialized in the trade of wood and iron.
   positions:
   - designation: IT Manager
-    start: March 2016
-    end: May 2017
+    start: May 2017
+    end: Août 2022
     responsibilities:
     - Administration and maintenance of IT equipment.
     - Database administration.
     - Development of applications interfaced with SAGE (Gescom & COMPTA 100) i7 version.
 
 - company:
-    name: Inekto Group.
+    name: Groupe Sepro.
     url: "https://www.example.com"
     location: Dakar
     overview: Inekto group is a SSII.
   positions:
   - designation: Junior developper
-    start: Jun 2015
-    end: Jan 2016
+    start: Jan 2016
+    end: April 2017
     responsibilities:
     - J2EE development (java) university management application.
     - Development with javascript (jhipster, angular).
