@@ -66,8 +66,8 @@ badges:
 - type: certification
   name: Microsoft Certified Azure Administrator Associate
   url: "https://learn.microsoft.com/api/credentials/share/en-us/GildasKODJO-0136/887A2A2C0CE60E88?sharingId=5B376C12BB5E7412"
-  badge: "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
-
+  badge: "/images/sections/site/linkedin_thumb_azure-administrator-associate-600x600.png"
+  
 - type: certification
   name: Microsoft Certified Azure AI Fundamentals
   url: "https://www.credly.com/badges/eadfa89c-297f-4c2f-a2e5-8e6579360382/public_url"
