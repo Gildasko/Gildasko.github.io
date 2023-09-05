@@ -64,6 +64,11 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: Microsoft Certified Azure Administrator Associate
+  url: "https://learn.microsoft.com/api/credentials/share/en-us/GildasKODJO-0136/887A2A2C0CE60E88?sharingId=5B376C12BB5E7412"
+  badge: "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
+
+- type: certification
   name: Microsoft Certified Azure AI Fundamentals
   url: "https://www.credly.com/badges/eadfa89c-297f-4c2f-a2e5-8e6579360382/public_url"
   badge: "https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
